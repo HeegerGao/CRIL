@@ -3,9 +3,11 @@
 
 This is the official repository for the implemntation of simulation experiments of CRIL: Continual Robot Imitation Learning via Generative Dynamics Model by [Chongkai Gao](http://chongkaigao.com/), Haichuan Gao, Shangqi Guo, Tianren Zhang and Feng Chen.
 
-CRIL is a specialized deep generative replay algorithm designed for continual robot imitation learning that employs both a dynamics predictor and WGAN-GP for trajectory replay. The results of simulation and realworld experiments and the generated images are as follows:
+CRIL is a specialized deep generative replay algorithm designed for continual robot imitation learning that employs both a dynamics predictor and WGAN-GP for trajectory replay. The results of simulation and realworld experiments are as follows:
 
 <div align=center><img src="https://github.com/HeegerGao/CRIL/blob/main/pictures/res1.png" width="322" height="292" alt="res1"/>&nbsp&nbsp<img src="https://github.com/HeegerGao/CRIL/blob/main/pictures/res2.png" width="322" height="292" alt="res2"/></div>
+
+The replayed images of CRIL are as follows:
 
 <div align=center><img src="https://github.com/HeegerGao/CRIL/blob/main/pictures/CRIL.png" width="635" height="414" alt="CRIL"/></div>
 
