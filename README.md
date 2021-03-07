@@ -1,5 +1,6 @@
 # CRIL
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]
+![License](https://img.shields.io/badge/license-MIT-blue.svg)]
+
 This is the official repository for the implemntation of CRIL: Continual Robot Imitation Learning via Generative Dynamics Model by Chongkai Gao, Haichuan Gao, Shangqi Guo, Tianren Zhang and Feng Chen. Note here we only release the code for simulation experiments.
 
 __Table of Contents__
@@ -10,7 +11,7 @@ __Table of Contents__
 
 
 ## Installation
-The simulation experiments of CRIL are based on MuJoCo and Meta-World benchmark, which need to be installed in advance. You can follow these instructions to install [mujoco-py](https://github.com/openai/mujoco-py#install-mujoco) and [meta-world](https://github.com/rlworkgroup/metaworld)
+The simulation experiments of CRIL are based on MuJoCo and Meta-World benchmark, which need to be installed in advance. You can follow these instructions to install [mujoco-py](https://github.com/openai/mujoco-py#install-mujoco) and [meta-world](https://github.com/rlworkgroup/metaworld).
 
 
 ## Running
