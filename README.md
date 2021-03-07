@@ -10,7 +10,7 @@ __Table of Contents__
 - [Citing CRIL](#citing-cril)
 - [Acknowledgements](#acknowledgements)
 
-## Installation
+## Introduction
 
 CRIL is a specialized deep generative replay algorithm designed for continual robot imitation learning that employs both a dynamics predictor and WGAN-GP for trajectory replay. The results of simulation and realworld experiments are as follows:
 
