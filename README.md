@@ -1,7 +1,7 @@
 # CRIL
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This is the official repository for the implemntation of simulation experiments in CRIL: Continual Robot Imitation Learning via Generative Dynamics Model by Chongkai Gao, Haichuan Gao, Shangqi Guo, Tianren Zhang and Feng Chen.
+This is the official repository for the implemntation of simulation experiments in CRIL: Continual Robot Imitation Learning via Generative Dynamics Model by [Chongkai Gao](http://chongkaigao.com/), Haichuan Gao, Shangqi Guo, Tianren Zhang and Feng Chen.
 
 __Table of Contents__
 - [Installation](#installation)
