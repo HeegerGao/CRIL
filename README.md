@@ -5,6 +5,9 @@ This is the official repository for the implemntation of simulation experiments 
 
 CRIL is a specialized deep generative replay algorithm designed for continual robot imitation learning that employs both a dynamics predictor and WGAN-GP for trajectory replay. The results of simulation and realworld experiments and the generated images are as follows:
 
+![res1](https://github.com/HeegerGao/CRIL/blob/main/pictures/res1.png)
+![res2](https://github.com/HeegerGao/CRIL/blob/main/pictures/res2.png)
+![gen](https://github.com/HeegerGao/CRIL/blob/main/pictures/CRIL.png)
 
 
 __Table of Contents__
