@@ -2,8 +2,6 @@ import torch
 import torch.nn as nn
 import numpy as np
 import random
-from utils import CustomDataSetForAll
-from torch.utils.data import DataLoader
 from behaviorcloning import behavior_cloning
 from wgangp import train_wgangp
 from predictor import train_predictor, predict_images
