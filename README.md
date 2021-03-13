@@ -32,7 +32,7 @@ The simulation experiments of CRIL are based on MuJoCo and Meta-World benchmark,
 Run the following code to train the models:
 `python3 main.py`
 
-Note: you cannot run with only one click. See the instructions in main.py.
+Note: you cannot run with only one click for various reasons. See the instructions in [main.py](https://github.com/HeegerGao/CRIL/blob/main/main.py).
 
 
 ## Citing-CRIL
