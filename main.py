@@ -1,4 +1,3 @@
-import free_mjc
 import torch
 import torch.nn as nn
 import numpy as np
