@@ -29,6 +29,9 @@ The simulation experiments of CRIL are based on MuJoCo and Meta-World benchmark,
 
 ## Running
 
+Run the following code to collect rollouts for different tasks:
+`python3 data_collect.py`
+
 Run the following code to train the models:
 `python3 main.py`
 
